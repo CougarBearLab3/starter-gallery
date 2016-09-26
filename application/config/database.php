@@ -95,5 +95,3 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
-
-$autoload['libraries'] = array('database', 'parser');
